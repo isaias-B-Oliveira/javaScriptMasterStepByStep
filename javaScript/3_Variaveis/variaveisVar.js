@@ -13,3 +13,5 @@ console.log(a); // 10
 var x = 5;
 var x = 20; // Redeclaração permitida
 console.log(x); // 20
+
+//Problema: Como var ignora blocos { }, pode causar bugs inesperados.
