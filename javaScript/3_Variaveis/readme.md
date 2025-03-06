@@ -9,3 +9,7 @@
 ### Saiada do console das variaveis Const!
 
 <img src="../img/saidaconst.png">
+
+### Resumo de qual usar!
+
+<img src="../img/resumovariaveis.png">
