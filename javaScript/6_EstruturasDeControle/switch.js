@@ -1,4 +1,4 @@
-// O switch em JavaScript é uma estrutura de controle usada para tomar decisões com base no valor de uma variável ou expressão.
+// O switch (Trocar) em JavaScript é uma estrutura de controle usada para tomar decisões com base no valor de uma variável ou expressão.
 //  Ele é uma alternativa ao uso excessivo de if...else if...else,
 //  tornando o código mais organizado e legível quando há várias condições a serem verificadas.
 
