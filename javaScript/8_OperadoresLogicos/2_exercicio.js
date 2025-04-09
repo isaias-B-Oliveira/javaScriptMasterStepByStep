@@ -1,4 +1,5 @@
 // Exercício: Verificação de Acesso
+
 // Você foi contratado para criar um sistema simples que verifica se um usuário pode acessar um site restrito.
 
 // Regras:
