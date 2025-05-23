@@ -1,3 +1,4 @@
+
 // O que é o for?
 // O for é uma estrutura de controle de repetição que permite executar um bloco de código um número determinado de vezes.
 // O for é útil quando sabemos exatamente quantas vezes queremos repetir um bloco de código.
