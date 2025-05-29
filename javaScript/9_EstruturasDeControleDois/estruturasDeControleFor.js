@@ -64,7 +64,6 @@ for (let i = 1; i <= 3; i++) {
 // 2 é par
 // 3 é ímpar
 
-
 //Você pode contar para trás também:
 for (let i = 5; i >= 1; i--) {
     console.log("Contador:", i);
