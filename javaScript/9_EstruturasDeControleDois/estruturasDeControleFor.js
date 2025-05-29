@@ -9,7 +9,6 @@ for (inicialização; condição; incremento) {
     // bloco de código a ser executado
 }
 
-
 // Partes do for:
 // Inicialização: ocorre uma única vez, no início do laço.
 
